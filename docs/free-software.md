@@ -16,7 +16,9 @@
 - [Visual Paradigm Online](https://online.visual-paradigm.com)
 - [Creately](https://creately.com/)
 - [Coggle](https://coggle.it)
-
+- [VanceAI Image Enhancer](https://vanceai.com/image-enhancer/)
+- [VanceAI Photo Restorer](https://vanceai.com/old-photo-restoration/)
+- 
 ## 视频编辑器
 
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
